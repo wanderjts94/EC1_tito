@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EC1_tito</string>
+    <string name="Vanombre">Nombre</string>
+    <string name="Vaapellido">Apellido</string>
+    <string name="Calcularbt">Calcular</string>
+    <string name="Tresultado" />
+    <string name="IDHrsTrab">Ingresar Horas Trabajadas</string>
+    <string name="Nomb">Ingrese Nombre</string>
+    <string name="Apell">Ingrese Apellido</string>
+    <string name="ingNUM">Ingrese Numero</string>
+    <string name="Numeroval">Ingrese Numero</string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="btprimos">Procesar</string>
+    <string name="txressult4" />
+    <string name="twcosto">Ingrese Costo De Moto</string>
+    <string name="twMarcaMoto">Ingrese Marca Moto</string>
+    <string name="btnVenta">Precio Venta</string>
+</resources>
